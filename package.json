@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-s21",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "appp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mercyy-maker/node-hello-world-s21.git"
+  },
+  "author": "Henry Cavill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mercyy-maker/node-hello-world-s21/issues"
+  },
+  "homepage": "https://github.com/mercyy-maker/node-hello-world-s21#readme"
+}
