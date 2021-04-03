@@ -1,2 +1,2 @@
-1 web: node appp.js
+1 web: node ./bin/www
 
