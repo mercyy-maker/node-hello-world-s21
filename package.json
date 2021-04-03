@@ -1,13 +1,13 @@
 {
   "name": "hello-world-s21",
   "version": "1.0.0",
-   description: "Learning",
-   engines:{
-           "node: "12.x"
+   "description": "Learning",
+   "engines":{
+           "node": "12.x"
 },
- main : "appp.js,
+ "main" : "appp.js",
  "scripts": {
-   "start: "node appp.js",
+   "start": "node appp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,15 +16,12 @@
   },
    "keywords": [
             "nodejs",
-             "heroku",
+             "heroku"
 ], 
-  "author": "Henry Cavill",
+  "author": "Mercy L",
   "license": "ISC",
   "bugs": {
-    "url": https://github.com/mercyy-maker/node-hello-world-s21/issues"
+    "url": "https://github.com/mercyy-maker/node-hello-world-s21/issues"
   },
-  "keywords": [
-            "nodejs",
-             "heroku",
   "homepage": "https://github.com/mercyy-maker/node-hello-world-s21#readme"
 }
